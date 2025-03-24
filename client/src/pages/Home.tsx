@@ -5,7 +5,7 @@ export default function Home() {
         CodeMatrix Compiler
       </h1>
       <p className=" text-gray-500 text-center p-3">
-        Compiler HTML, CSS, JavaScript Code on the go and share it with your
+        Compile HTML, CSS, JavaScript Code on the go and share it with your
         friends
       </p>
     </div>
